@@ -1,0 +1,5 @@
+org/epf/hadoop/colfil2/UserPairPartitioner.class
+org/epf/hadoop/colfil2/UserPair.class
+org/epf/hadoop/colfil2/CommonRelationsReducer.class
+org/epf/hadoop/colfil2/ColFilJob2.class
+org/epf/hadoop/colfil2/CommonRelationsMapper.class

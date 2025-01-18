@@ -1,0 +1,5 @@
+/Users/layscervantes/Desktop/TP_final_BigData/hadoop-tp3/p-collaborative-filtering-job-2/src/main/java/org/epf/hadoop/colfil2/ColFilJob2.java
+/Users/layscervantes/Desktop/TP_final_BigData/hadoop-tp3/p-collaborative-filtering-job-2/src/main/java/org/epf/hadoop/colfil2/CommonRelationsMapper.java
+/Users/layscervantes/Desktop/TP_final_BigData/hadoop-tp3/p-collaborative-filtering-job-2/src/main/java/org/epf/hadoop/colfil2/CommonRelationsReducer.java
+/Users/layscervantes/Desktop/TP_final_BigData/hadoop-tp3/p-collaborative-filtering-job-2/src/main/java/org/epf/hadoop/colfil2/UserPair.java
+/Users/layscervantes/Desktop/TP_final_BigData/hadoop-tp3/p-collaborative-filtering-job-2/src/main/java/org/epf/hadoop/colfil2/UserPairPartitioner.java

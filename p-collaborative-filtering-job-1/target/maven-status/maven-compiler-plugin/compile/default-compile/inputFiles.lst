@@ -1,0 +1,6 @@
+/Users/layscervantes/Desktop/TP_final_BigData/hadoop-tp3/p-collaborative-filtering-job-1/src/main/java/org/epf/hadoop/colfil1/ColFilJob1.java
+/Users/layscervantes/Desktop/TP_final_BigData/hadoop-tp3/p-collaborative-filtering-job-1/src/main/java/org/epf/hadoop/colfil1/Relationship.java
+/Users/layscervantes/Desktop/TP_final_BigData/hadoop-tp3/p-collaborative-filtering-job-1/src/main/java/org/epf/hadoop/colfil1/RelationshipInputFormat.java
+/Users/layscervantes/Desktop/TP_final_BigData/hadoop-tp3/p-collaborative-filtering-job-1/src/main/java/org/epf/hadoop/colfil1/RelationshipMapper.java
+/Users/layscervantes/Desktop/TP_final_BigData/hadoop-tp3/p-collaborative-filtering-job-1/src/main/java/org/epf/hadoop/colfil1/RelationshipRecordReader.java
+/Users/layscervantes/Desktop/TP_final_BigData/hadoop-tp3/p-collaborative-filtering-job-1/src/main/java/org/epf/hadoop/colfil1/RelationshipReducer.java
